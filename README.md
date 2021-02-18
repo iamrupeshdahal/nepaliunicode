@@ -1,2 +1,2 @@
-# nepaliunicode
-Phoenotic translation of English words to Nepali words - iamrupeshdahal/nepaliunicode.
+# nepali-unicode
+Phoenotic translation of English words to Nepali words - iamrupeshdahal/nepali-unicode.
