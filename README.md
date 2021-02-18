@@ -1,2 +1,2 @@
 # nepaliunicode
-Get All codes Regarding  to install Nepali Unicode on your Site
+Phoenotic translation of English words to Nepali words - iamrupeshdahal/nepaliunicode.
